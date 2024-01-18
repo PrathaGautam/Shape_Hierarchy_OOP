@@ -1,0 +1,9 @@
+
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.venv/
+.*env/
+.log
+.DS_Store
